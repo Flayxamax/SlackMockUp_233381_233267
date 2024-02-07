@@ -1,0 +1,16 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Raya horizontal blanca -->
+    <stroke
+        android:width="2dp"
+    android:color="#FFFFFF" /> <!-- Color blanco -->
+
+    <!-- Raya más pequeña abajo de la primera -->
+    <size
+        android:height="1dp" /> <!-- Altura más pequeña -->
+
+    <!-- Raya más pequeña abajo de la segunda -->
+    <size
+        android:height="1dp" /> <!-- Altura más pequeña -->
+
+</shape>
