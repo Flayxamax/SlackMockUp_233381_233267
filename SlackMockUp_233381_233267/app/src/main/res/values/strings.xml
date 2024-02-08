@@ -1,4 +1,33 @@
 <resources>
     <string name="app_name">SlackMockUp_233381_233267</string>
     <string name="wizeline">Wizeline</string>
+    <string name="unread_dms">Unread DMs</string>
+    <string name="aisse_n_ez">Aisse Núñez</string>
+    <string name="nombre1">汤品</string>
+    <string name="_1">1</string>
+    <string name="channels">Channels</string>
+    <string name="tilinbot">tilinbot</string>
+    <string name="recent_apps">Recent apps</string>
+    <string name="moscars">moscars👑</string>
+    <string name="tecate">tecate</string>
+    <string name="general">general</string>
+    <string name="hashtag">hashtag</string>
+    <string name="notas_recursos">notas-recursos</string>
+    <string name="circle_green">circle_green</string>
+    <string name="user_img">user img</string>
+    <string name="logo_img">logo img</string>
+    <string name="user2_img">user2 img</string>
+    <string name="circle_green2">circle_green2</string>
+    <string name="app_img">app img</string>
+    <string name="heart_green">heart_green</string>
+    <string name="lock_img">lock img</string>
+    <string name="tag">#</string>
+    <string name="home_img">home img</string>
+    <string name="circle_purple">circle purple</string>
+    <string name="activity">activity</string>
+    <string name="activity_img">activity img</string>
+    <string name="dms_img">dms img</string>
+    <string name="home">Home</string>
+    <string name="dms">DMs</string>
+    <string name="activityt">Activity</string>
 </resources>

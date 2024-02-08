@@ -8,5 +8,10 @@
     <color name="back1">#571954</color>
     <color name="back2">#2C003C</color>
     <color name="back3">#3D0B45</color>
+    <color name="purple">#762b72</color>
+    <color name="purple2">#8b4c87</color>
+    <color name="purple3">#883481</color>
     <color name="soft_purple">#623C6F</color>
+    <color name="soft_gray">#e8e8e8</color>
+    <color name="gray">#7d7d7d</color>
 </resources>
