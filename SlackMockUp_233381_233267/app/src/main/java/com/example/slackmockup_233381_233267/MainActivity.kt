@@ -25,7 +25,6 @@ class MainActivity : ComponentActivity() {
         setContentView(view)
 
         val searchView = binding.searchEditText
-
         searchView.queryHint = "Jump to or search..."
 
     }

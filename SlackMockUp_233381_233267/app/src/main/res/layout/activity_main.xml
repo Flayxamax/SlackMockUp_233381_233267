@@ -134,13 +134,12 @@
             android:layout_width="100dp"
             android:layout_height="100dp"
             android:layout_marginStart="20dp"
-            android:layout_marginTop="20dp"
-            app:cardStrokeColor="#CCCCCC"
-            app:cardStrokeWidth="1000dp">
+            android:layout_marginTop="20dp">
                 <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:orientation="vertical">
+                android:orientation="vertical"
+                    android:background="@drawable/borde">
 
                     <ImageView
                         android:layout_width="30dp"
@@ -176,13 +175,12 @@
                 android:layout_width="100dp"
                 android:layout_height="100dp"
                 android:layout_marginStart="20dp"
-                android:layout_marginTop="20dp"
-                app:cardStrokeColor="#CCCCCC"
-                app:cardStrokeWidth="1000dp">
+                android:layout_marginTop="20dp">
                 <LinearLayout
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
-                    android:orientation="vertical">
+                    android:orientation="vertical"
+                    android:background="@drawable/borde">
                     <ImageView
                         android:layout_width="30dp"
                         android:layout_height="30dp"
@@ -214,16 +212,15 @@
             android:layout_column="2">
 
             <androidx.cardview.widget.CardView
-                android:layout_width="100dp"
+                android:layout_width="110dp"
                 android:layout_height="100dp"
                 android:layout_marginStart="20dp"
-                android:layout_marginTop="20dp"
-                app:cardStrokeColor="#CCCCCC"
-                app:cardStrokeWidth="1000dp">
+                android:layout_marginTop="20dp">
                 <LinearLayout
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
-                    android:orientation="vertical">
+                    android:orientation="vertical"
+                    android:background="@drawable/borde">
                     <ImageView
                         android:layout_width="30dp"
                         android:layout_height="30dp"
@@ -771,9 +768,7 @@
 
                 <androidx.cardview.widget.CardView
                     android:layout_width="match_parent"
-                    android:layout_height="80dp"
-                    app:cardStrokeColor="#CCCCCC"
-                    app:cardStrokeWidth="2dp">
+                    android:layout_height="80dp">
                     <ImageView
                         android:id="@+id/imageView5"
                         android:layout_width="40dp"
@@ -820,9 +815,7 @@
 
                 <androidx.cardview.widget.CardView
                     android:layout_width="match_parent"
-                    android:layout_height="80dp"
-                    app:cardStrokeColor="#CCCCCC"
-                    app:cardStrokeWidth="2dp">
+                    android:layout_height="80dp">
                     <ImageView
                         android:id="@+id/imageView6"
                         android:layout_gravity="center_horizontal"
@@ -869,9 +862,7 @@
 
                 <androidx.cardview.widget.CardView
                     android:layout_width="match_parent"
-                    android:layout_height="80dp"
-                    app:cardStrokeColor="#CCCCCC"
-                    app:cardStrokeWidth="2dp">
+                    android:layout_height="80dp">
                     <ImageView
                         android:id="@+id/imageView7"
                         android:layout_gravity="center_horizontal"
