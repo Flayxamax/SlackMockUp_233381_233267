@@ -30,4 +30,5 @@
     <string name="home">Home</string>
     <string name="dms">DMs</string>
     <string name="activityt">Activity</string>
+    <string name="threads">Threads</string>
 </resources>
